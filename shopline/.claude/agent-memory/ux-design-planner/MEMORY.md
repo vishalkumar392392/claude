@@ -1,0 +1,1 @@
+- [Shopline Authentication UX Design](project_shopline_auth.md) — Auth spec: Sign In/Sign Up pages, JWT/Redux pattern, protected routes, token refresh strategy

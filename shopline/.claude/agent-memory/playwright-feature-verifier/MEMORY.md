@@ -1,0 +1,1 @@
+- [Shopline App Routes and Auth Patterns](project_shopline_routes.md) — port 5173, known routes, mock creds, ProtectedRoute behavior, script setup quirks
